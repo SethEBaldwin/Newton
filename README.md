@@ -18,7 +18,7 @@ Enter values into the boxes to change the color, number of iterations, polynomia
 
 ### Buttons: 
 * Update: updates the display window with the values in the left column. You should click this whenever you change any of these values. 
-* Zoom in/Zoom out: zooms in or out by the factor specified above. 
+* Zoom in/Zoom out: zooms in or out by the factor specified. 
 * Save: saves the current display with an automatically generated name containing information about the current settings. 
 * Recenter: resets the center of the fractal to the origin. 
 * Recenter + Unzoom: resets the center of the fractal to the origin and undoes any zoom ins/outs that have been performed.
@@ -29,7 +29,8 @@ Enter values into the boxes to change the color, number of iterations, polynomia
 * Blue: integer between 0 and 255.
 * Iterations: integer greater than 0, representing the maximum number of iterations of Newton's method to perform at each point. Lower values result in brighter images with less contrast. 
 * A: complex number of the form x.x+x.xj, representing the value of a from the above formula. Using complex values results in a "twisting" of the fractal (compare A = 1 vs A = .5+.5j, for example). 
-* Polynomial: list of complex numbers separted by commas, representing the polynomial function to perform Newton's method on. Zoom factor: float greater than 0.
+* Polynomial: list of complex numbers separted by commas, representing the coefficients of the polynomial function to perform Newton's method on. Ex: -1, 0, 7, 2, 0, 1 would represent -1 + 7z^2 + 2z^3 + z^5
+* Zoom factor: float greater than 0.
 
 Here are some examples of images created by the program:
 
