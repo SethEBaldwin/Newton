@@ -29,7 +29,7 @@ Enter values into the boxes to change the color, number of iterations, polynomia
 * Blue: integer between 0 and 255.
 * Iterations: integer greater than 0, representing the maximum number of iterations of Newton's method to perform at each point. Lower values result in brighter images with less contrast. 
 * A: complex number of the form x.x+x.xj, representing the value of a from the above formula. Using complex values results in a "twisting" of the fractal (compare A = 1 vs A = .5+.5j, for example). 
-* Polynomial: list of complex numbers separted by commas, representing the coefficients of the polynomial function to perform Newton's method on. Ex: -1, 0, 7, 2, 0, 1 would represent -1 + 7z^2 + 2z^3 + z^5
+* Polynomial: list of complex numbers separated by commas, representing the coefficients of the polynomial function to perform Newton's method on. Ex: -1, 0, 7, 2, 0, 1 would represent -1 + 7z^2 + 2z^3 + z^5
 * Zoom factor: float greater than 0.
 
 Here are some examples of images created by the program:
