@@ -8,7 +8,7 @@ To learn how Newton's method is used to generate fractals, see [https://en.wikip
 Currently, p is restricted to be a polynomial function.
 
 ### Instructions for use: 
-Run the file newton.py to open a display window along with a GUI which allows changing various parameters, recoloring, translating, and zooming in or out. The file cuda_fractal.py contains a parallized implementation of Newton's method which runs on the GPU for fast rendering.
+Run the file newton.py to open a display window along with a GUI which allows changing various parameters, recoloring, translating, and zooming in or out, and saving the display image. The file cuda_fractal.py contains a parallelized implementation of Newton's method which runs on the GPU for fast rendering.
 
 ### Navigating the display window: 
 Click anywhere on the display window to move the center of the display to the point clicked on.
