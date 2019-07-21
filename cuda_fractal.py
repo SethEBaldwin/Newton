@@ -14,7 +14,7 @@ def compute_newton_gpu(x, y, max_iter, p, a, out):
                 for _ in range(l):
                     z_pow *= z
                 v += p[l] * z_pow
-            if v.real*v.real + v.imag*v.imag < .0001: 
+            if v.real*v.real + v.imag*v.imag < .1: 
                 break
             w = 0
             for l in range(1, p.shape[0]):

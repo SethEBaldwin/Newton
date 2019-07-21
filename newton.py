@@ -7,7 +7,7 @@ from cuda_fractal import compute_newton
 
 A = .5 + .5j
 P = [-1, 0, 0, 1]
-N_ITERATIONS = 120
+N_ITERATIONS = 100
 RED = 0
 GREEN = 150
 BLUE = 255
