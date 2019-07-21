@@ -39,9 +39,9 @@ Here are some examples of images created by the program:
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/newton2.png)
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/1111%5B5%2C2%2C1%5D%5B9%2C5%2C1%5D2x.png)
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(1%2B0j)_%5B(9%2B0j)%2C%20(-3%2B0j)%2C%200j%2C%200j%2C%20(-5%2B0j)%2C%200j%2C%20(-2%2B0j)%5D_72_209_204_N50_2.jpg)
-![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(0.5%2B0.5j)_%5B-1%2C%200%2C%200%2C%201%5D_0_150_255_N150_0.jpg)
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(1.5%2B0.8j)_%5B(-1%2B0j)%2C%200j%2C%200j%2C%20(1%2B0j)%5D_0_150_255_N100_0.jpg)
-![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(0.5%2B0.8j)_%5B(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%5D_64_224_208_N400_13.jpg)
+
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(0.5%2B0.8j)_%5B(-1%2B0j)%2C%200j%2C%200j%2C%20(10%2B0j)%5D_150_100_150_N100_1.jpg)
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(0.8%2B0.8j)_%5B(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%5D_175_238_238_N150_12.jpg)
+![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(0.5%2B0.8j)_%5B(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%5D_64_224_208_N400_13.jpg)
 ![](https://github.com/SethEBaldwin/Newton/blob/master/fractals/Newton_(1.5%2B0.7j)_%5B(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%2C%20(1%2B0j)%2C%20(-1%2B0j)%5D_0_150_255_N120_1.jpg)
